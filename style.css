@@ -1,0 +1,19 @@
+#link {
+    color: black;
+}
+#show{
+    display: none;
+    justify-content: space-around;
+    width: 200px;
+    background-color: cornflowerblue;
+    margin: 20px;
+    padding: 20px 0;
+}
+.cubic{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+}
+
+
+
